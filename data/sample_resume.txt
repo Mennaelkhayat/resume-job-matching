@@ -1,0 +1,24 @@
+Menna Elkhayat
+Junior NLP / Machine Learning Engineer
+
+Summary
+Fresh computer science graduate with hands-on project experience in natural
+language processing and machine learning, including transformer fine-tuning
+and text classification.
+
+Skills
+Python, PyTorch, TensorFlow, scikit-learn, Hugging Face transformers, NLTK,
+pandas, NumPy, SQL, Git, Linux, data analysis, problem solving, communication
+
+Experience
+Teaching Assistant, Faculty of Computers and Information (2024-present)
+- Support NLP and programming courses: labs, grading, and mentoring students
+- Built teaching demos in Python for machine learning fundamentals
+
+Projects
+- GPT-2 task decomposition: fine-tuned GPT-2 to break high-level tasks into
+  subtasks (PyTorch, Hugging Face)
+- Grammar and spelling analysis: RoBERTa grammar classifier with rule-based
+  spelling correction, Gradio interface
+- Resume screening prototype: TF-IDF similarity and skill extraction with
+  scikit-learn

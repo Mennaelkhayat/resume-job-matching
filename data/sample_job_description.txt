@@ -1,0 +1,13 @@
+Junior NLP Engineer
+
+We are looking for a junior NLP engineer to join our applied AI team.
+
+Requirements
+- Strong Python programming and software engineering fundamentals
+- Experience with PyTorch or TensorFlow and the Hugging Face ecosystem
+- Knowledge of natural language processing: text classification, transformers,
+  fine-tuning language models
+- Familiarity with scikit-learn, pandas, and NumPy
+- Experience with Git and Linux
+- Bonus: Docker, AWS, REST API development
+- Good communication and problem solving skills
